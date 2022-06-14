@@ -1,4 +1,4 @@
-### Olá! 👋
+## Meu nome é Julia Dias e sou estudante de Engenharia de Software! 👋
 
 <div align="center">
   <a href="https://github.com/juliadiasp">
